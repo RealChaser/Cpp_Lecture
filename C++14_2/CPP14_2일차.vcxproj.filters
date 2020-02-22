@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\1_TypeDeduction">
+      <UniqueIdentifier>{9699b134-f387-40d0-b43c-893bb0e5db82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2_Lambda">
+      <UniqueIdentifier>{84f17f57-b567-4862-ae05-af3a122a0a80}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2_Decay.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="1_타입추론1.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="1_타입추론2.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="1_타입추론3.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="1_타입추론4.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="1_타입추론5.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="2_Decay2.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="2_Decay3.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="2_Decay4.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="2_Decay5.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="2_Decay6.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="2_Decay7.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="3_auto추론.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="3_decltype2.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="3_decltype추론.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="3_decltype추론3.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="0_auto소개.cpp">
+      <Filter>소스 파일\1_TypeDeduction</Filter>
+    </ClCompile>
+    <ClCompile Include="8_성능측정.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="4_인라인함수1.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="4_인라인함수2.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="4_인라인함수3.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="5_함수객체.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="5_함수객체2.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="5_함수객체3.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="5_함수객체4.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다1.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다2.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다3.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다4.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다5.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다6.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다7.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다8.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다9.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다10.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다11.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다12.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다13.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="6_람다14.cpp">
+      <Filter>소스 파일\2_Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="move만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
